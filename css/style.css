@@ -10,3 +10,15 @@
 .chat-sp {
     transition: all 0.2s
 }
+
+.m-font {
+    font-family: 'Merriweather', serif;
+    font-size: 1.45rem;
+    text-align: center
+}
+
+.icon-footer {
+    color: rgb(153, 153, 153);
+    font-size: 0.9rem;
+    transition: all 0.2s
+}
