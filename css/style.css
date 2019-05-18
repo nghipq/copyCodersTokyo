@@ -22,3 +22,34 @@
     font-size: 0.9rem;
     transition: all 0.2s
 }
+
+.nav-font-size {
+    font-size: 0.9rem;
+    transition: all 0.2s 
+}
+
+.m-font-size {
+    font-size: 2.8rem;
+    transition: all 0.2s
+}
+
+.b-font-size {
+    font-size: 0.9rem;
+}
+
+.s-font-size {
+    font-size: 1.4rem
+}
+
+.height {
+    height: 33rem;
+    transition: all 0.2s
+}
+
+.l-height {
+    height: 35rem;
+}
+
+.l-font-size {
+    font-size: 1rem
+}
