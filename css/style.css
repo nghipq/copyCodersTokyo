@@ -1,0 +1,12 @@
+.chat-close {
+    transition: all 0.2s
+}
+
+.chat-link {
+    color: #dbdbdb;
+    transition: all 0.2s
+}
+
+.chat-sp {
+    transition: all 0.2s
+}

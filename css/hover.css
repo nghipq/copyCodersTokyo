@@ -1,0 +1,13 @@
+.chat-box-header:hover .chat-close {
+    background: #e7e6e6
+}
+
+.chat-link:hover {
+    color: rgb(161, 161, 161);
+    text-decoration: none;
+}
+
+.chat-sp:hover {
+    transform: scale(1.1);
+    color: #979797
+}
